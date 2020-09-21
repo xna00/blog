@@ -54,7 +54,11 @@ table {
 
 1. ol + li
 
+    有方向的列表
+
 2. ul + li
+
+    没有方向的列表
 
 3. dl + dt + dd
 
@@ -86,6 +90,10 @@ table {
 
     内容本身的强调
 
-11. quote
+10. quote
+    
+    引用
 
-12. blockquote
+11. blockquote
+    
+    比quote多了换行
