@@ -300,3 +300,4 @@ $('div').animate(
 [.stop()](http://api.jquery.com/stop/)和[.delay()](http://api.jquery.com/delay/)用来停止或延缓特效的执行。
 
 [$.fx.off](http://api.jquery.com/jQuery.fx.off/)如果设置为true，则关闭所有网页特效。
+
