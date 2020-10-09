@@ -1,11 +1,5 @@
 # 虚拟 DOM 和 DOM diff
 
-1. 虚拟 DOM 的优点
-2. 虚拟 DOM 的缺点
-3. DOM diff 是什么
-4. DOM diff 的优点
-5. DOM diff 的问题（key）
-
 ### 虚拟 DOM 是什么
 
 虚拟dom，与真实dom相对，是JS对象
